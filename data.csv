@@ -1,0 +1,41 @@
+Coal;1;;0
+Copper;2;;0
+Iron;3;;0
+Amber;4;;0
+Aluminium;5;;0
+Water;5;;0
+Silver;7;;0
+Gold;10;;0
+Emerald;12;;0
+Topaz;14;;0
+Ruby;15;;0
+Silicon;15;;120
+Sapphire;16;;0
+Amthyst;18;;0
+Diamond;18;;0
+Copper Bar;25;5xCopper;10
+Iron Bar;40;5xIron;15
+Aluminium Bar;50;5xAluminium;15
+Polished Amber;70;5xAmber;30
+Polished Emerald;160;5xEmerald;30
+Polished Topaz;285;5xTopaz;60
+Polished Ruby;250;5xRuby;60
+Polished Diamond;300;5xDiamond;60
+Steel Bar;180;Graphite,Iron Bar;45
+Silver Bar;200;5xSilver;60
+Lab Flask;800;Glass;60
+Clean Water;1200;Water,Lab Flask;600
+Wire;15;0.2xCopper Bar;6
+Amber Charger;4;Amber;5
+Graphite;15;5xCoal;5
+Insulated Wire;750;Wire,Amber Insulation;180
+Copper Nail;7;0.1xCopper Bar;2
+Circuits;2070;10xIron Bar,50xGraphite,20xCopper Bar;180
+Aluminium Bottle;55;Aluminium Bar;30
+Battery;200;Amber,Iron Bar,5xCopper Bar;120
+Green Laser;400;0.2xPolished Emerald,0.2xInsulated Wire,0.2xLamp;4
+Lamp;760;5xCopper Bar,10xWire,20xGraphite;60
+Glass;450;2xSilicon;60
+Gold Bar;250;5xGold;60
+Amber Insulation;125;10xAmber,Aluminium Bottle;20
+Motherboard;17000;1xGold Bar,3xCircuits,3xSilicon;1800
